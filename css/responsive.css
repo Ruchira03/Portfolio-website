@@ -25,6 +25,10 @@
     .site-main > .services-area .services{
         width: 13rem;
     }
+    .boss-vid {
+        width: 200px;
+        height: 150px;
+      }
 
 }
 
@@ -62,6 +66,11 @@
         width: 20rem;
         margin: 5%;
     }
+    .boss-vid {
+        width: 350px;
+        height: 200px;
+        padding-right: 150px;
+      }
 }
 
 
@@ -81,6 +90,10 @@
     .site-main .about-area{
         padding: 3% 4%;
     }
-
+    .boss-vid {
+        width: 800px;
+        height: 500px;
+        padding-left: 10px;
+      }
 
 }
